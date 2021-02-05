@@ -54,8 +54,4 @@ I keep a sectioned list of projects that I have created and/or worked on:
   </ul>
 </details>
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+![reime005 GitHub stats](https://github-readme-stats.vercel.app/api?username=reime005&count_private=true&show_icons=true)
