@@ -55,4 +55,7 @@ I keep a sectioned list of projects that I have created and/or worked on:
 </details>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
