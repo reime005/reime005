@@ -6,7 +6,7 @@ I'm Marius, a Software Developer from Germany. My skills range over the full sta
 
 I also write on [Medium](https://reime005.medium.com), [DEV](https://dev.to/reime005) and [mariusreimer.com](https://mariusreimer.com).
 
-<h2>React Native Projects</h2>
+<h2>Open React Native Projects</h2>
 
 <ul>
   <li><a href="https://github.com/reime005/react-native-camera-hooks">react-native-camera-hooks</a> - Hooks library for react-native-camera</li>
@@ -38,6 +38,7 @@ I also write on [Medium](https://reime005.medium.com), [DEV](https://dev.to/reim
     <li>react-native-modal/react-native-modal</li>
     <li>iddan/react-native-canvas</li>
     <li>react-native-masked-view/masked-view</li>
+    <li><a href="https://github.com/reime005/ReactNativeSearchAnimated">reime005/ReactNativeSearchAnimated</a></li>
   </ul>
 </details>
 
