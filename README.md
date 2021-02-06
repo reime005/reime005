@@ -20,8 +20,8 @@ I also write on [Medium](https://reime005.medium.com), [DEV](https://dev.to/reim
   <summary>Flutter Projects</summary>
 
   <ul>
-    <li><b>App</b> that display data from the Space API V1: <a href="https://github.com/berger89/hmpaisrn"></a>berger89/hmpaisrn</a></li>
-    <li>Example app onboarding screen: <a href="https://github.com/reime005/FlutterOnboarding">reime005/FlutterOnboarding</a></li>
+    <li><a href="https://github.com/berger89/hmpaisrn">How Many People Are In Space Right Now</a> - App that displays data from the Space API V1 and the amount of people in space</li>
+    <li><a href="https://github.com/reime005/FlutterOnboarding">Onboarding Experience</a> - Example app onboarding screen experience</li>
   </ul>
 </details>
 
@@ -49,7 +49,7 @@ I also write on [Medium](https://reime005.medium.com), [DEV](https://dev.to/reim
     <li>o2sh/onefetch</li>
     <li>rslint/rslint</li>
     <li>booyaa/wifiscanner</li>
-    <li><a href="https://github.com/reime005/graphql_pokeapi_rust">reime005/graphql_pokeapi_rust</a></li>
+    <li><a href="https://github.com/reime005/graphql_pokeapi_rust">GraphQL Pokemon Wrapper</a> - Rust GraphQL wrapper for the Pokemon API with Svelte frontend</li>
   </ul>
 </details>
 
