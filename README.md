@@ -1,18 +1,25 @@
-![Marius Reimer React Native / Software Developer](./logo.png)
+![Marius Reimer - React Native / Software Developer](./logo.png)
 
-I'm Marius, a Software Developer specialized on React Native app development. My skills range over the full stack of software development. For the Frontend, I currently prefer React, but have also worked with Angular or Svelte in the past. Backend wise I choose Node.JS or Rust. For Mobile it is React Native or Flutter of course.
-
-I keep a sectioned list of projects that I have created and/or worked on:
+I'm Marius, a Software Developer from Germany. My skills range over the full stack of software development, with main expertise in React Native. For the Frontend, I currently prefer React, but have also worked with Angular or Svelte in the past. Backend wise I choose Node.JS or Rust. For Mobile eventually use Flutter.
 
 <h2>React Native Projects</h2>
 
 <ul>
-  <li>Hooks <b>Library</b> for react-native-camera: <a href="https://github.com/reime005/react-native-camera-hooks">reime005/react-native-camera-hooks</a></li>
-  <li>Security Storage <b>Library</b> for iOS and Android: <a href="https://github.com/reime005/react-native-secure-element">reime005/react-native-secure-element</a></li>
-  <li>Ads SDK <b>Library</b>: <a href="https://github.com/reime005/react-native-tapjoy">reime005/react-native-tapjoy</a></li>
-  <li><b>App</b> that display data from the Space API V1. Also react-native-web supported: <a href="https://github.com/reime005/react-native-spaceviewer">reime005/react-native-spaceviewer</a></li>
-  <li>App that display data from the Space API V2: <a href="https://github.com/reime005/SpaceSeek">reime005/SpaceSeek</a></li>
+  <li><a href="https://github.com/reime005/react-native-camera-hooks">react-native-camera-hooks</a> - Hooks library for react-native-camera</li>
+  <li><a href="https://github.com/reime005/react-native-secure-element">react-native-secure-element</a> - Secure storage library for iOS and Android</li>
+  <li><a href="https://github.com/reime005/react-native-tapjoy">react-native-tapjoy</a> - Wrapper library for an ads sdk</li>
+  <li><a href="https://github.com/reime005/react-native-spaceviewer">Space Viewer</a> - App that displays data from the Space API V1 (deprecated)</li>
+  <li><a href="https://github.com/reime005/SpaceSeek">Space Seek</a> - App that displays data from the Space API V2 (complete re-work)</li>
 </ul>
+
+<details>
+  <summary>Flutter Projects</summary>
+
+  <ul>
+    <li><b>App</b> that display data from the Space API V1: <a href="https://github.com/berger89/hmpaisrn"></a>berger89/hmpaisrn</a></li>
+    <li>Example app onboarding screen: <a href="https://github.com/reime005/FlutterOnboarding">reime005/FlutterOnboarding</a></li>
+  </ul>
+</details>
 
 <details>
   <summary>React Native Contributions</summary>
@@ -31,21 +38,11 @@ I keep a sectioned list of projects that I have created and/or worked on:
 </details>
 
 <details>
-  <summary>Flutter</summary>
-
-  <ul>
-    <li><b>App</b> that display data from the Space API V1: <a href="https://github.com/berger89/hmpaisrn"></a>berger89/hmpaisrn</a></li>
-    <li>Example app onboarding screen: <a href="https://github.com/reime005/FlutterOnboarding">reime005/FlutterOnboarding</a></li>
-  </ul>
-</details>
-
-<details>
   <summary>Rust</summary>
 
   <ul>
     <li>o2sh/onefetch</li>
     <li>rslint/rslint</li>
-    <li>booyaa/wifiscanner</li>
     <li>booyaa/wifiscanner</li>
     <li><a href="https://github.com/reime005/graphql_pokeapi_rust">reime005/graphql_pokeapi_rust</a></li>
   </ul>
