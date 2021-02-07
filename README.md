@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-I'm Marius, a Software Developer from Germany. My skills range over the full stack of software development, with main expertise in React Native. For the Frontend, I currently prefer React, but have also worked with Angular or Svelte in the past. Backend wise I choose Node.JS or Rust. For Mobile eventually use Flutter.
+I'm Marius, a Software Developer from Germany. My skills range over the full stack of software development, with main expertise in React Native. For the Frontend, I use React. Backend wise I choose Node.JS or Rust. For Mobile it can also be Flutter.
 
 I also write on [Medium](https://reime005.medium.com), [DEV](https://dev.to/reime005) and [mariusreimer.com](https://mariusreimer.com).
 
